@@ -1,0 +1,5 @@
+Icones:
+https://fontawesome.com/
+
+carrossel
+https://owlcarousel2.github.io/OwlCarousel2/
